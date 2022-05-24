@@ -1,2 +1,2 @@
-Esta es la historia de git y github
+Esta es la vida de git y github
 y como se usan
